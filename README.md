@@ -34,37 +34,63 @@ DNAC Health+ is a tool to aid with performing crucial monitoring operations on D
 
 # Checks run 4 hourly
 VIP Reachability
+
 CPU Load
+
 Rabbitmq Cluster Health
+
 Rabbitmq Cluster Status
-Rabbitmq queue Status
+
+Rabbitmq Queue Status
+
 Zookeeper Cluster Health
+
 Zookeeper Cluster Status
 
 # Checks run daily
 Docker Status
+
 Kubelet Status
+ 
 Appstack Status
+
 Appstack Service Restart 
+
 Kubelet Node Status
+
 Magctl Node Status
+
 ETCD Cluster Health
+
 Certification Validity
+
 Backup Server
+
 Catalog Server
+
 Docker Stopped Container
+
 Mongo DB Check
+
 Postgres Cluster
+
 Glusterfs
+
 InfluxDB
+
 ISE Check
+
 Disk Space Utilization
+
 Memory Utilization
+
 PS AUX
+
 DNS Reachability
 
 # Checks run weekly
 NTP Sync Offset
+
 Interface Status
 
 
